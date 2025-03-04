@@ -1,2 +1,1 @@
-# 🥀 Pss! This is a secret repo to hold my community health files!
-# so GET OUT OF HERE !
+# Bro get out of here this is my shit. What are you even doing here there is nothing for you here at all. I don't get you sometime.
