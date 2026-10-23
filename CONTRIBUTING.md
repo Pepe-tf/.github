@@ -1,55 +1,17 @@
-# :stars: Contributing
+# Contributing
 
-So, you want to contribute to this project! That's awesome. However, before
-doing so, please read the following simple steps how to contribute. This will
-make the life easier and will avoid wasting time on things which are not
-requested.
+Thanks for wanting to contribute! A few steps keep things smooth.
 
-## Discuss the changes before doing them
- - First of all, open an issue in the repository, using the bug tracker,
-   describing the contribution you would like to make, the bug you found or any
-   other ideas you have. This will help us to get you started on the right
-   foot.
+## Discuss first
+- Open an issue describing the bug, change or idea before you start.
+- Include your platform and software versions, and screenshots if they help.
+- Wait for feedback. For an obvious fix, such as a typo, you can go straight to a pull request.
 
- - If it makes sense, add the platform and software information (e.g. operating
-   system, Node.JS version etc.), screenshots (so we can see what you are
-   seeing).
+## Make the change
+- Fork the repository and create a branch, for example `fix-login-typo`.
+- Commit your changes. If the project has a format or lint command, run it first.
 
- - It is recommended to wait for feedback before continuing to next steps.
-   However, if the issue is clear (e.g. a typo) and the fix is simple, you can
-   continue and fix it.
-
-## Fixing issues
- - Fork the project in your account and create a branch with your fix:
-   `some-great-feature` or `some-issue-fix`.
-
- - Commit your changes in that branch, if the project has a command to format and check code style (you'll most likely find it in `package.json`) - use it. 
-
- - If the project contains a `package.json` or a `bower.json` file add yourself
-   in the `contributors` array (or `authors` in the case of `bower.json`;
-   if the array does not exist, create it):
-
-   ```json
-   {
-      "contributors": [
-         "John Doe <john@doe.com> (https://johndoe.com)"
-      ]
-   }
-   ```
-
-## Creating a pull request
-
- - Open a pull request, and reference the initial issue in the pull request
-   message (e.g. *fixes #<your-issue-number>*). Write a good description and
-   title, so everybody will know what is fixed/improved.
-
- - If it makes sense, add screenshots, gifs etc., so it is easier to see what
-   is going on.
-
-## Wait for feedback
-Before accepting your contributions, we will review them. You may get feedback
-about what should be fixed in your modified code. If so, just keep committing
-in your branch and the pull request will be updated automatically.
-
----
-> Contributions are more than welcome!
+## Open a pull request
+- Reference the issue in the description, for example `Fixes #123`.
+- Write a clear title and description. Add screenshots if the change is visual.
+- Review feedback arrives on the pull request. Push more commits to the same branch to update it.

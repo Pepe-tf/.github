@@ -1,1 +1,7 @@
-# Bro get out of here this is my shit. What are you even doing here there is nothing for you here at all. I don't get you sometime.
+# Pepe-tf
+
+Default community health files for my repositories: contributing guide, security policy, code of conduct, and issue and discussion templates.
+
+- [Contributing](CONTRIBUTING.md)
+- [Security policy](SECURITY.md)
+- [Code of conduct](.github/CODE_OF_CONDUCT.md)

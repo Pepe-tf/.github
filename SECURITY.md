@@ -1,7 +1,7 @@
-# Reporting Security Issues
+# Security Policy
 
-If you’ve found a security vulnerability, please report it to us immediately.
+If you find a security vulnerability, please report it privately. Do not open a public issue.
 
-We take all valid reports seriously and will work quickly to resolve the issue.
+Report it at https://billhub.site/contact. Include what you found, how to reproduce it, and which repository it affects.
 
-Report here: https://billhub.site/contact.
+We will acknowledge valid reports and work on a fix as quickly as we can.

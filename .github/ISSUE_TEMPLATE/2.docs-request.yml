@@ -3,7 +3,7 @@ description: "Request a documentation improvement to help us improve the project
 labels:
  - "docs"
 assignees:
- - "Billhub"
+ - "Pepe-tf"
 body:
  - type: markdown
    id: intro

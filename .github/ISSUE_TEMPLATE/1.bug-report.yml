@@ -3,7 +3,7 @@ description: "File a bug report to help us improve the project."
 labels:
  - "bug"
 assignees:
- - "Billhub"
+ - "Pepe-tf"
 body:
  - type: textarea
    id: environment
